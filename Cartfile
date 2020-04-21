@@ -1,0 +1,5 @@
+github "zendesk-moleary/TestFrameworkOne" ~> 1.0.0
+github "zendesk-moleary/TestFrameworkTwo" ~> 1.0.0
+github "zendesk-moleary/AwesomeTestRepoOne" ~> 1.0.0
+github "zendesk-moleary/AwesomeTestRepoTwo" ~> 1.0.0
+
